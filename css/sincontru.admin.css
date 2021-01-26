@@ -1,0 +1,67 @@
+/*
+  @package sincontrutheme
+*/
+
+.sincontru-general-form,
+.sincontru-sidebar-preview {
+  display: inline-block;
+  float: left;
+}
+
+.sincontru-sidebar-preview {
+  width: 280px;
+  background-color: #393431;
+  padding: 20px;
+  text-align: center;
+  margin-right: 20px;
+}
+
+.sincontru-sidebar {
+  display: block;
+  text-align: center;
+}
+
+.sincontru-username,
+.sincontru-description {
+  font-family: 'Dustismo Roman', serif;
+  padding-top: 20px;
+  color: white;
+}
+
+.sincontru-username {
+  font-size: 24px;
+  margin: 0 0 5px;
+}
+
+.sincontru-description {
+  font-size: 18px;
+  margin: 0 0 20px;
+}
+
+.image-container {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+}
+
+.profile-picture {
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  margin: 20px auto;
+}
+
+.picture {
+  width: 80%;
+  height: auto;
+}
+
+.sincontru-telephone {
+  color: white;
+  font-family: 'Dustismo Roman', serif;
+}
+
+.icons-wrapper {
+  color: white;
+}
